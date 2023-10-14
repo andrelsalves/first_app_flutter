@@ -13,7 +13,7 @@ class homePage extends StatelessWidget {
       appBar: getHomeAppbar(),
       drawer: getHomeDrawer(),
       floatingActionButton: getHomeFab(),
-      body: HomePageContent(),
+      body: const HomePageContent(),
     );
   }
 }

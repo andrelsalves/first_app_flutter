@@ -1,5 +1,5 @@
-import 'package:first_app_flutter/_comuns/colors.dart';
 import 'package:flutter/material.dart';
+import 'package:first_app_flutter/_comuns/colors.dart';
 
 class AuthTela extends StatefulWidget {
   const AuthTela({super.key});
